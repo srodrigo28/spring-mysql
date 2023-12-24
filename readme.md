@@ -1,10 +1,25 @@
 # Crud Java Spring Boot
-* Link de referência Michele Brito
+
+### Link de referência Michele Brito
 ```
 https://www.youtube.com/watch?v=wlYvA2b1BWI
 ```
-
+```
 https://www.javadevjournal.com/spring-boot/spring-boot-mysql/#google_vignette
+```
+
+### Link DockerFiles
+1. Dany Leão
+```
+https://www.youtube.com/watch?v=fwWvgk_SW2g&t=917s
+```
+2. Lucas Diniz
+```
+https://www.youtube.com/watch?v=gVnSQEixPiQ
+```
+3. Ref
+```
+```
 
 ### Postgres properties
 ```
@@ -42,6 +57,7 @@ http://localhost:8080/api/produtos
 ```
 http://localhost:8080/api/produtos
 ```
+
 ### JSON Post
 
 {

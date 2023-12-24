@@ -29,8 +29,10 @@ public class ProdutoController {
         return produtoRepository.findAll();
     }
 
-    @PostMapping
+
     @ResponseStatus(code = HttpStatus.CREATED)
+
+    @PostMapping
     public Produto create(@RequestBody Produto produto){
         return produtoRepository.save(produto);
     }
